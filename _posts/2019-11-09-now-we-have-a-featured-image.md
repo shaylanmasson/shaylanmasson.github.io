@@ -2,7 +2,7 @@
 layout: default
 title: The Creativity Hub - Laurier Brantford
 date: '2019-11-09 16:38:39'
-thumbnail: /images/uploads/invention-industrial-steampunk.jpg
+thumbnail: /images/uploads/the-creativity-hub.png
 tags: featured image
 ---
 In our Design Thinking course, as a group, we worked with our clients to create a fun, welcoming, and safe place for Laurier and the Brantford community to come together and be creative.
