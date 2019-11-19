@@ -2,7 +2,6 @@
 layout: default
 title: 'The Creativity Hub - Laurier Brantford '
 date: '2019-11-18 16:38:39'
-thumbnail: ''
 tags: featured image
 ---
 ![Creativity Hub](/images/uploads/the-creativity-hub.png "The Creativity Hub")
