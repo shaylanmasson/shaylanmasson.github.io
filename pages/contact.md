@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact
-id: contact
+ID: contact
 ---
 
 This is my contact page!!!!
