@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-id: about
+ID: about
 ---
 
 Hi, I'm Shaylan!
