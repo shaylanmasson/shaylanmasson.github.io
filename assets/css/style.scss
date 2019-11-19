@@ -1,5 +1,21 @@
 ---
 ---
+@import url(bootstrap.min.css);
 
-@import "{{ site.theme }}";
+img{
+    max-width: 100%;
+}
+
+.wrapper{
+    padding-top: .5em;
+}
+
+.card{
+    margin: 0 .5em;
+    height: 100%;
+}
+.row{
+    margin-bottom: 1em;
+}
+
 
