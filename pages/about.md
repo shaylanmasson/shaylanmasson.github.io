@@ -2,6 +2,7 @@
 layout: default
 title: About
 id: about
+thumbnail: /images/uploads/me.jpg
 ---
 
 <h3>Hi, I'm Shaylan!</h3>
