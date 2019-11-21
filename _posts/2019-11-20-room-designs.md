@@ -3,6 +3,7 @@ layout: default
 title: Room Designs
 date: '2018-04-01 14:06:48'
 thumbnail: /images/uploads/tiny-house-board.png
+preview: /images/uploads/tiny-house-board.png
 ---
 In a housing design course as well as Technological Design I created floor plan layouts and walk through of the spaces. 
 
