@@ -3,6 +3,7 @@ layout: default
 title: FAD Architects
 date: '2018-07-01 14:48:07'
 thumbnail: /images/uploads/client-product-book-fad.png
+preview: /images/uploads/client-product-book-fad-copy.png
 ---
 <h2> Client Product Book</h2>
 
