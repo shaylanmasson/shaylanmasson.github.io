@@ -3,6 +3,7 @@ layout: default
 title: Camera Lens Cap Holder
 date: '2019-11-12 18:24:51'
 thumbnail: /images/uploads/img_1130.jpg
+preview: /images/uploads/camera-lens-cap-white.png
 myangle: >-
   When I first started taking photos I would often put my lens cap holder in the
   pocket of my pants or jacket, or I would put it back in the camera case. One
