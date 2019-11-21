@@ -55,16 +55,19 @@
 	<div class="wrapper container">
 
 		<section>
-			{% if current.thumbnail %}
-                <img src="{{ current.thumbnail }}" alt="{{ current.title }}" title="{{ current.title }}" />
-            {% endif %}
+	<div class="col-md-6">		
             <div id="title">
 				<h1>{{ current.title }}</h1>
 				<hr>
 			</div>
 
 			{{ current.content }}
-
+			</div>
+			<div class="col-md-6">
+{% if current.thumbnail %}
+                <img src="{{ current.thumbnail }}" alt="{{ current.title }}" title="{{ current.title }}" />
+            {% endif %}
+			</div>
 		</section>
 		<section>
 			{% for i in (1..2) %}
