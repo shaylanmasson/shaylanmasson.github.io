@@ -3,6 +3,7 @@ layout: default
 title: Cake Decorating
 date: '2019-11-12 18:14:57'
 thumbnail: /images/uploads/img_4387.jpg
+preview: /images/uploads/farm-cake-cropped.png
 ---
 I let my creative mind flow through the cakes I decorate.
 
