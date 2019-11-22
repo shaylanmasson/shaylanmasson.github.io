@@ -12,7 +12,7 @@ id: contact
         <label> Your Email: <input type="email" name="email"/> </label>
     </p>
     <p>
-        Message:<br>
+        Message:
         <textarea name:"message" id="message" cols="40" rows="2"></textarea>
     </p>
     <p>
