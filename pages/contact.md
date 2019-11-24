@@ -3,6 +3,7 @@ layout: default
 title: Contact
 id: contact
 ---
+Feel free to send a message!
 
 <form name="contact" method="POST" data-netlify="true">
     <p>
