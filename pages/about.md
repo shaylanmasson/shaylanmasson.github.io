@@ -10,4 +10,4 @@ I am currently in my second year of the User Experience Design program at Wilfri
 
 In high school I took a housing and design course as well as Technological design which was when I realized that I wanted to pursue a career in design. I looked into a few options before I found the User Experience Design program at Wilfrid Laurier and decided that was right for me. 
 
-I am passionate about making products more user friendly for everyone!
+I am passionate about making products more user friendly for everyone! My creative mind, passionate drive, and hard work ethic through professional, educational and recreational activities makes me unique.
