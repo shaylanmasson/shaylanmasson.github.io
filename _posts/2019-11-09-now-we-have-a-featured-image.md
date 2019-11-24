@@ -6,8 +6,10 @@ thumbnail: /images/uploads/the-creativity-hub.png
 preview: /images/uploads/the-creativity-hub-preview-image.png
 tags: featured image
 ---
-In our Design Thinking course, as a group, we worked with our clients to create a fun, welcoming, and safe place for Laurier and the Brantford community to come together and be creative.
+In our Design Thinking course, as a group, we worked with our clients to create a fun, inclusive, and safe place for Laurier and the Brantford community to come together and be creative.
 
 We had areas for collaborating on group projects, individual study pods, computers, sewing machines, music rooms and kitchens just to name a few.
 
-In order to present our final design, we did extensive research into our users through surveying and interviewing, as well as visiting other creative spaces.
+In order to present our final design, we did extensive research into our users through surveys and interviews. In addition, we looked into other creative spaces online and visited a few of these spaces including The Labs in London Ontario, as a part of our research. 
+
+At the end of 12 weeks we were able to present this project board, displayed here, to our clients as well as a research package showing all of our findings from the research we completed.
