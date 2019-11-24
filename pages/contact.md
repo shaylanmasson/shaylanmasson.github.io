@@ -3,7 +3,7 @@ layout: default
 title: Contact
 id: contact
 ---
-<h6>Feel free to send a message!</h6>
+<h5>Feel free to send a message!</h5>
 
 <br>
 
