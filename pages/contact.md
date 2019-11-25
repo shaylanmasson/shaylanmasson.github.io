@@ -17,8 +17,7 @@ id: contact
         <label> Your Email: <input type="email" name="email"/> </label>
     </p>
     <p>
-       <label> Message:
-        <textarea name:"message" id="message" cols="40" rows="2"></textarea> </label>
+       <label> Message: <textarea name:"message" id="message" cols="40" rows="2"></textarea> </label>
     </p>
     <p>
         <button type="submit"> Send</button>
