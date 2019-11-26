@@ -4,6 +4,7 @@ title: 'The Creativity Hub: Laurier Brantford '
 date: '2019-11-18 16:38:39'
 thumbnail: /images/uploads/the-creativity-hub.png
 preview: /images/uploads/the-creativity-hub-preview-image.png
+myangle: uebgfosBGOIwhnrgeoiw
 tags: featured image
 ---
 In our Design Thinking course, as a group, we worked with our clients to create a fun, inclusive, and safe place for Laurier and the Brantford community to come together and be creative.
