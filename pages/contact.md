@@ -2,7 +2,7 @@
 layout: default
 title: Contact
 id: contact
-thumbnail: /images/uploads/thank-you.png
+thumbnail: /images/uploads/thank-you-portfolio.png
 ---
 <h5>Feel free to send a message!</h5>
 
