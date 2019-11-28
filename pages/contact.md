@@ -2,7 +2,7 @@
 layout: default
 title: Contact
 id: contact
-thumbnail: ''
+
 ---
 <h5>Feel free to send a message!</h5>
 
