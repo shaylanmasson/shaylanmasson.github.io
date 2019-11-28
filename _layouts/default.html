@@ -72,6 +72,13 @@
             {% endif %}
 			</div>
 		</section>
+		<section class="row">
+			{% if current.myangle %}
+			<h2> My Angle </h2>
+			<p>{{ current.myangle }} </p> 
+            {% endif %}
+		</section>
+		
 		<br>
 		<section>
 			{% for i in (1..2) %}
