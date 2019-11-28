@@ -58,29 +58,19 @@
 	<div class="wrapper container">
 
 		<section class="row">
-			<div class="col-md-6">
-				<div id="title">
-					<h1>{{ current.title }}</h1>
+	<div class="col-md-6">		
+            <div id="title">
+				<h1>{{ current.title }}</h1>
 				<hr>
-				</div>
-			
-	<div class="col-md-6">	
-			{% if current.thumbnail %}
-		<img src="{{ current.thumbnail }}" alt="{{ current.title }}" title="{{ current.title }}" />
-		{% endif %}
-				
 			</div>
 
 			{{ current.content }}
 			</div>
 			<div class="col-md-6">
-				{{ current.content }}
-				{% if current.myangle %}
-				<h2> My Angle </h2>
-				<p>{{ current.myangle }}</p>
+{% if current.thumbnail %}
+                <img src="{{ current.thumbnail }}" alt="{{ current.title }}" title="{{ current.title }}" />
             {% endif %}
 			</div>
-			
 		</section>
 		<br>
 		<section>
