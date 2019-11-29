@@ -4,9 +4,7 @@ title: Contact
 id: contact
 thumbnail: /images/uploads/screen-shot-2019-11-28-at-6.48.57-pm.png
 ---
-<body>
-
-<p><h5>Feel free to send a message!</h5></p>
+<p><h2>Feel free to send a message!</h2></p>
 
 <br>
 
@@ -25,5 +23,3 @@ thumbnail: /images/uploads/screen-shot-2019-11-28-at-6.48.57-pm.png
         <button type="reset"> Reset</button>
     </p>
 </form>
-
-</body>
