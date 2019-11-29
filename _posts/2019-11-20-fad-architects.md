@@ -4,6 +4,14 @@ title: FAD Architects
 date: '2018-07-01 14:48:07'
 thumbnail: /images/uploads/client-product-book-fad.png
 preview: /images/uploads/client-product-book-fad-copy.png
+myangle: >-
+  These projects I completed while working at FAD Architects allowed me to
+  practice my skills working with client expectations. I had worked on some
+  floor layouts before but this was my first plumbing and electrical drawing.
+  Once I was shown the main concept of the drawing I was able to follow along to
+  complete this task. Working here proved to me the success in trying new things
+  and my ability to learn how to do projects that I may not have had prior
+  knowledge of going into the task.
 ---
 <h2> Client Product Book</h2>
 
