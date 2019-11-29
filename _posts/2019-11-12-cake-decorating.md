@@ -8,7 +8,7 @@ myangle: >-
   My grandmother has been decorating cakes for a long time, her specialty was
   wedding cakes. Watching her complete these fascinating works of art, inspired
   me to start decorating as well. Through her guidance and leadership I
-  decorated my first cake and it took off from their. Cake decorating has been
+  decorated my first cake and it took off from there. Cake decorating has been
   an activity that allows me to escape from everyday life and let my creative
   juices flow. Through my experience, cake decorating has been a fun way for me
   to be creative and free to design whatever I want while practicing the lessons
@@ -16,7 +16,7 @@ myangle: >-
 ---
 I let my creative mind flow through the cakes I decorate.
 
-When I was nine years old I decorated my first cake, it was a farm cake for a contest at a local fair, and have been passionate about cake decorating ever since. Over the years I have decorated many cakes for many different occasions including birthdays, baby showers, retirement parties and many other special events. I have worked with both icing and fondant on my cakes.
+When I was nine years old I decorated my first cake, it was a farm cake for a contest at a local fair, and I have been passionate about cake decorating ever since. Over the years I have decorated many cakes for many different occasions including birthdays, baby showers, retirement parties and many other special events. I have worked with both icing and fondant on my cakes.
 
 Cake decorating is a skill that takes a lot of experimenting and practice. Cake decorating can teach a huge lesson of failure, as well as patience. The materials you are working with can be difficult at times, you have to have the right thickness of icing to hold but not too thick at the same time, cakes can be fragile and and fondant can be frustrating to shape. There are many times when you have to experiment, try different tips, icing etc. until you find what is exactly right.
 
