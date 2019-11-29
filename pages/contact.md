@@ -8,8 +8,6 @@ thumbnail: /images/uploads/screen-shot-2019-11-28-at-6.48.57-pm.png
 
 <br>
 
-<br>
-
 <form name="contact" method="POST" data-netlify="true">
     <p>
         <label> Your Name: <input type="text" name="name"/> </label>
