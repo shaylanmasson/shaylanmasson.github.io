@@ -10,7 +10,8 @@ myangle: >-
   fancy equipment or spaces such as a Creativity Hub or Maker Space. I believed
   right from the start of this project that if we designed based on what the
   users wanted we could create a space where students, and the public could come
-  and be creative with the equipment provided, something I never had access to.
+  and be creative with the equipment provided, something I never had easy access
+  to.
 tags: featured image
 ---
 In our Design Thinking course, as a group, we worked with our clients to create a fun, inclusive, and safe place for Laurier and the Brantford community to come together and be creative.
