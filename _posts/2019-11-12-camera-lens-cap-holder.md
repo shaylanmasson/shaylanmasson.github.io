@@ -13,3 +13,5 @@ myangle: >-
   this is when I ended up with the cap holder that attaches to my neck strap.
 ---
 Photography is another creative outlet I am passionate about. I designed a lens cap holder and then printed the product on a 3-D printer. It now holds my lens cap holder while I am taking photos for easy access as it attaches right to the neck strap of my camera.
+
+The process I went through started with my inspiration and then involved a lot of measurements. I had to precisely measure my lens cap in order to build the holder so that everything would fit just right. After I had all my measurements, I began designing the holder on the computer, then rendered the 3-D image to be printed.
