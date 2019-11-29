@@ -11,7 +11,9 @@ myangle: >-
   of icing to hold but not too thick at the same time, cakes can be fragile and
   and fondant can be frustrating to shape. There are many times when you have to
   experiment, try different tips, icing etc. until you find what is exactly
-  right.
+  right. Through my experience, cake decorating has been a fun way for me to be
+  creative and free to design whatever I want while practicing the lessons of
+  failure and patience.
 ---
 I let my creative mind flow through the cakes I decorate.
 
