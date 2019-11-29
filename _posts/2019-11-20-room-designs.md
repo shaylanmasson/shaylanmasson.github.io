@@ -4,6 +4,13 @@ title: Room Designs
 date: '2018-04-01 14:06:48'
 thumbnail: /images/uploads/tiny-house-board.png
 preview: /images/uploads/tiny-house-board.png
+myangle: >-
+  From a young age I have dreamed of designing my "perfect" home. These projects
+  allowed me to once again display my creativity and design skills. The floor
+  plans, colour schemes, budgets and presentation skills that I used in these
+  two assignments are all aspects of a project that I could use in my UX career
+  path. These were both fun projects to complete with many skills that I can use
+  in university.
 ---
 In a housing design course as well as Technological Design I created floor plan layouts and walk through of the spaces. 
 
