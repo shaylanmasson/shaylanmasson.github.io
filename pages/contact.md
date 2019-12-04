@@ -4,7 +4,9 @@ title: Contact
 id: contact
 thumbnail: /images/uploads/screen-shot-2019-11-28-at-6.48.57-pm.png
 ---
-<p>Feel free to send a message!</p>
+<p>Feel free to send a message!
+
+shaylan.masson@gmail.com</p>
 
 <br>
 
